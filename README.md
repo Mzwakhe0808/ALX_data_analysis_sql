@@ -24,3 +24,9 @@ Use advanced SQL tools to assemble the pieces of an audit together.
 Assemble your final analysis results and report your findings.
 Combine SQL tools to finalize your analysis.
 Look to the future as you derive actionable goals and shape the data to achieve them.
+
+## License & Copyright
+
+© 2026 ALX Africa. All Rights Reserved.  
+Unauthorized copying, redistribution, or use of this repository or its contents is strictly prohibited.
+
